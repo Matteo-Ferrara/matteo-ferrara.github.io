@@ -1,7 +1,18 @@
 body {
     margin:50px auto;
+    padding: 50px;
+    height: 550px;
+    width: 700px;
     max-width:700px;
     line-height:1.5;
     font-size:18px;
+    
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 
+        10px -10px 0 -3px white,
+        10px -10px,
+        20px -20px 0 -3px white,
+        20px -20px;
+    
   }
-  
